@@ -1,0 +1,7 @@
+# ninja log v6
+93	178	1719930508527048079	advancedProgramming	ec3b413fa4ec32a8
+2	76	1719927290457186937	CMakeFiles/advancedProgramming.dir/utils/isPalindrome.c.o	8a12525e00f0a4c9
+2	93	1719930508436513754	CMakeFiles/advancedProgramming.dir/main.c.o	8e4a52066b1b7a61
+3	100	1719860197594193166	CMakeFiles/advancedProgramming.dir/utils/swapWithMemFuncs.c.o	f549e2d4c403444b
+2	78	1719929261262292501	CMakeFiles/advancedProgramming.dir/utils/areOpposite.c.o	381fc6750b369b34
+3	81	1719929541581199881	CMakeFiles/advancedProgramming.dir/utils/maxSum.c.o	6b8ba192ac28f448
