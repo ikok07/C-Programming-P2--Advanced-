@@ -21,6 +21,5 @@ void displayArray(int *arr, int size) {
 
 int main() {
     int arr[SIZE] = {9,2,4,5,3};
-    printRtoL(arr, SIZE);
     return 0;
 }
