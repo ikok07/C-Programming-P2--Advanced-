@@ -16,4 +16,7 @@ add_executable(advancedProgramming main.c
         utils/myRealloc.c
         utils/fillArr.c
         utils/create1DArray.c
+        utils/testExercises.c
+        utils/removeDuplicates.c
+        utils/separateArrays.c
 )

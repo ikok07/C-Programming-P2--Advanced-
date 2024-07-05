@@ -61,7 +61,10 @@
 				9,
 				10,
 				11,
-				12
+				12,
+				13,
+				14,
+				15
 			]
 		}
 	],
@@ -106,7 +109,10 @@
 				9,
 				10,
 				11,
-				12
+				12,
+				13,
+				14,
+				15
 			]
 		}
 	],
@@ -188,6 +194,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "utils/create1DArray.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/testExercises.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/removeDuplicates.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/separateArrays.c",
 			"sourceGroupIndex" : 0
 		}
 	],
