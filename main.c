@@ -5,11 +5,13 @@
 
 #define SIZE 5
 
-void inputArray(int *arr, int size) {
+int *generateArr(int size) {
+    int *arr = malloc(sizeof(int) * size);
     for (int i = 0; i < size; i++) {
         printf("Enter value #%d\n", i + 1);
         scanf("%d", &arr[i]);
     }
+    return arr;
 }
 
 void displayArray(int *arr, int size) {
@@ -19,7 +21,22 @@ void displayArray(int *arr, int size) {
     printf("\n");
 }
 
+int *generateArray(int size) {
+    int *arr = (int*)malloc(sizeof(int) * size);
+    if (!arr) {
+        printf("Could not allocate memory!");
+        exit(1);
+    }
+    return arr;
+}
+
+
+
 int main() {
-    int arr[SIZE] = {9,2,4,5,3};
+    int *ptr;
+    int size = 3;
+
+    create1DByRef(&ptr, size);
+    displayArray(ptr, size);
     return 0;
 }

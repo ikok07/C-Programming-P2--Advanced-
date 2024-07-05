@@ -2,6 +2,8 @@
 // Created by Kaloyan Petkov on 2.07.24.
 //
 
+#include <stdio.h>
+
 void printLtoR(int *arr, int size) {
     if (size == 1) {
         printf("%d", arr[0]);

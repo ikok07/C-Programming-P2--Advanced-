@@ -8,4 +8,12 @@ add_executable(advancedProgramming main.c
         utils/isPalindrome.c
         utils/areOpposite.c
         utils/maxSum.c
-        utils/printRightLeft.c)
+        utils/printRightLeft.c
+        utils/arrAvg.c
+        utils/getBinary.c
+        utils/swapArrO1.c
+        utils/reallocExercise.c
+        utils/myRealloc.c
+        utils/fillArr.c
+        utils/create1DArray.c
+)
