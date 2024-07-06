@@ -64,7 +64,9 @@
 				12,
 				13,
 				14,
-				15
+				15,
+				16,
+				17
 			]
 		}
 	],
@@ -112,7 +114,9 @@
 				12,
 				13,
 				14,
-				15
+				15,
+				16,
+				17
 			]
 		}
 	],
@@ -212,6 +216,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "utils/separateArrays.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/arrAddRemove.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/2DArrs.c",
 			"sourceGroupIndex" : 0
 		}
 	],

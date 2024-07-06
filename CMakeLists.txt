@@ -19,4 +19,6 @@ add_executable(advancedProgramming main.c
         utils/testExercises.c
         utils/removeDuplicates.c
         utils/separateArrays.c
+        utils/arrAddRemove.c
+        utils/2DArrs.c
 )
