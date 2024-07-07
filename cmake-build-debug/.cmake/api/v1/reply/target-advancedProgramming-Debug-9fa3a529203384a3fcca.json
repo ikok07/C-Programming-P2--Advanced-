@@ -66,7 +66,10 @@
 				14,
 				15,
 				16,
-				17
+				17,
+				18,
+				19,
+				20
 			]
 		}
 	],
@@ -116,7 +119,10 @@
 				14,
 				15,
 				16,
-				17
+				17,
+				18,
+				19,
+				20
 			]
 		}
 	],
@@ -228,6 +234,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "utils/2DArrs.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/swap2DElements.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/triangularMatrix.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/stringMethods.c",
 			"sourceGroupIndex" : 0
 		}
 	],

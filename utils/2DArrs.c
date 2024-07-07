@@ -21,6 +21,11 @@ int **generate2DArr() {
     return arr;
 }
 
+void gen2DArrByRef(int* **arr, int **arrCols) {
+    int* *newArr = generate2DArr(arrCols);
+    *arr = newArr;
+}
+
 void display2DArr(int* *arr, unsigned int rowsCount, int *columnCounts) {
     for (int i = 0; i < rowsCount; i++) {
         printf("Row #%d:\n", i + 1);

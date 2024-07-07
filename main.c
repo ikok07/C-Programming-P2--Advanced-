@@ -25,41 +25,15 @@ int *generateArray(int size) {
     return arr;
 }
 
-int **generate2DArray() {
-    int rowsCount;
-    int columnsCount;
-    int* *arr;
-    printf("Enter number of rows: ");
-    scanf("%d", &rowsCount);
 
-    arr = (int**)malloc(sizeof(int*) * rowsCount);
-    for (int i = 0; i < rowsCount; i++) {
-        printf("Enter number of columns for row #%d: ", i + 1);
-        scanf("%d", &columnsCount);
-        arr[i] = (int*)calloc(columnsCount, sizeof(int));
-    }
-    return arr;
-}
-
-void display2DArray(int* *arr, unsigned int rowsCount, int *columnCounts) {
-    for (int i = 0; i < rowsCount; i++) {
-        printf("Row #%d:\n", i + 1);
-        displayArray(arr[i], columnCounts[i]);
-    }
-}
-
-void free2DArray(int* *arr, unsigned int rows) {
-    for (int i = 0; i < rows; i++) {
-        free(arr[i]);
-    }
-    free(arr);
-}
 
 int main() {
 
-    int* *arr = generate2DArray();
-    int cols[3] = {1, 2, 3};
-    display2DArray(arr, 3, cols);
-    free2DArray(arr, 3);
+    char *str1 = "Hello";
+    char *str2;
+    stringCopy(&str2, str1);
+
+    printf("%d\n", stringCompare("Hello", "Hello"));
+
     return 0;
 }

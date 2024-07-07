@@ -21,4 +21,7 @@ add_executable(advancedProgramming main.c
         utils/separateArrays.c
         utils/arrAddRemove.c
         utils/2DArrs.c
+        utils/swap2DElements.c
+        utils/triangularMatrix.c
+        utils/stringMethods.c
 )
