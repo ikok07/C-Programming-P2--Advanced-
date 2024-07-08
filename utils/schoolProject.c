@@ -1,3 +1,7 @@
+//
+// Created by Kaloyan Petkov on 8.07.24.
+//
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -249,7 +253,7 @@ void freeMemory(School *school) {
     free(school);
 }
 
-int main() {
+void test() {
 
     // Create a new school
     School *mySchool = createSchool();
@@ -258,5 +262,4 @@ int main() {
     // other methods...
 
     freeMemory(mySchool);
-    return 0;
 }

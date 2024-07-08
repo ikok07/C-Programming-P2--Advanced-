@@ -24,4 +24,5 @@ add_executable(advancedProgramming main.c
         utils/swap2DElements.c
         utils/triangularMatrix.c
         utils/stringMethods.c
+        utils/schoolProject.c
 )
