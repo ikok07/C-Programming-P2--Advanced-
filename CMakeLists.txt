@@ -25,4 +25,5 @@ add_executable(advancedProgramming main.c
         utils/triangularMatrix.c
         utils/stringMethods.c
         utils/schoolProject.c
+        utils/sortArray.c
 )

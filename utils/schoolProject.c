@@ -247,13 +247,13 @@ void freeCourses(Course *courses, int totalCourses) {
     }
 }
 
-void freeMemory(School *school) {
+void freeSchool(School *school) {
     freeCourses(school->courses, school->coursesCount);
     free(school->courses);
     free(school);
 }
 
-void test() {
+void testSchool() {
 
     // Create a new school
     School *mySchool = createSchool();
@@ -261,5 +261,5 @@ void test() {
 
     // other methods...
 
-    freeMemory(mySchool);
+    freeSchool(mySchool);
 }
