@@ -19,7 +19,17 @@ void displayArray(int *arr, int size) {
     printf("\n");
 }
 
+
+
 int main() {
 
     return 0;
 }
+
+//while ((currLineLength = getline(&line, &lineCap, fp)) != EOF) {
+//currLine++;
+//if (currLine != lineNumber) {
+//
+//}
+//
+//}

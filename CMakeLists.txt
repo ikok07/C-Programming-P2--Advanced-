@@ -26,4 +26,9 @@ add_executable(advancedProgramming main.c
         utils/stringMethods.c
         utils/schoolProject.c
         utils/sortArray.c
+        utils/pizzaProject.c
+        utils/fileRemoveSpaces.c
+        utils/sortFileNums.c
+        utils/fileCompare.c
+        utils/fileTest.c
 )
