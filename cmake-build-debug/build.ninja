@@ -217,6 +217,42 @@ build CMakeFiles/advancedProgramming.dir/utils/fileTest.c.o: C_COMPILER__advance
   OBJECT_DIR = CMakeFiles/advancedProgramming.dir
   OBJECT_FILE_DIR = CMakeFiles/advancedProgramming.dir/utils
 
+build CMakeFiles/advancedProgramming.dir/utils/binaryFiles.c.o: C_COMPILER__advancedProgramming_unscanned_Debug /Users/macos/CLionProjects/advancedProgramming/utils/binaryFiles.c || cmake_object_order_depends_target_advancedProgramming
+  DEP_FILE = CMakeFiles/advancedProgramming.dir/utils/binaryFiles.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/advancedProgramming.dir
+  OBJECT_FILE_DIR = CMakeFiles/advancedProgramming.dir/utils
+
+build CMakeFiles/advancedProgramming.dir/utils/countingArrsP2.c.o: C_COMPILER__advancedProgramming_unscanned_Debug /Users/macos/CLionProjects/advancedProgramming/utils/countingArrsP2.c || cmake_object_order_depends_target_advancedProgramming
+  DEP_FILE = CMakeFiles/advancedProgramming.dir/utils/countingArrsP2.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/advancedProgramming.dir
+  OBJECT_FILE_DIR = CMakeFiles/advancedProgramming.dir/utils
+
+build CMakeFiles/advancedProgramming.dir/utils/bitwiseOperations.c.o: C_COMPILER__advancedProgramming_unscanned_Debug /Users/macos/CLionProjects/advancedProgramming/utils/bitwiseOperations.c || cmake_object_order_depends_target_advancedProgramming
+  DEP_FILE = CMakeFiles/advancedProgramming.dir/utils/bitwiseOperations.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/advancedProgramming.dir
+  OBJECT_FILE_DIR = CMakeFiles/advancedProgramming.dir/utils
+
+build CMakeFiles/advancedProgramming.dir/utils/bitwiseTest.c.o: C_COMPILER__advancedProgramming_unscanned_Debug /Users/macos/CLionProjects/advancedProgramming/utils/bitwiseTest.c || cmake_object_order_depends_target_advancedProgramming
+  DEP_FILE = CMakeFiles/advancedProgramming.dir/utils/bitwiseTest.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/advancedProgramming.dir
+  OBJECT_FILE_DIR = CMakeFiles/advancedProgramming.dir/utils
+
+build CMakeFiles/advancedProgramming.dir/utils/images.c.o: C_COMPILER__advancedProgramming_unscanned_Debug /Users/macos/CLionProjects/advancedProgramming/utils/images.c || cmake_object_order_depends_target_advancedProgramming
+  DEP_FILE = CMakeFiles/advancedProgramming.dir/utils/images.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/advancedProgramming.dir
+  OBJECT_FILE_DIR = CMakeFiles/advancedProgramming.dir/utils
+
+build CMakeFiles/advancedProgramming.dir/utils/basicAlgorithms.c.o: C_COMPILER__advancedProgramming_unscanned_Debug /Users/macos/CLionProjects/advancedProgramming/utils/basicAlgorithms.c || cmake_object_order_depends_target_advancedProgramming
+  DEP_FILE = CMakeFiles/advancedProgramming.dir/utils/basicAlgorithms.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/advancedProgramming.dir
+  OBJECT_FILE_DIR = CMakeFiles/advancedProgramming.dir/utils
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target advancedProgramming
@@ -225,7 +261,7 @@ build CMakeFiles/advancedProgramming.dir/utils/fileTest.c.o: C_COMPILER__advance
 #############################################
 # Link the executable advancedProgramming
 
-build advancedProgramming: C_EXECUTABLE_LINKER__advancedProgramming_Debug CMakeFiles/advancedProgramming.dir/main.c.o CMakeFiles/advancedProgramming.dir/utils/swapWithMemFuncs.c.o CMakeFiles/advancedProgramming.dir/utils/isPalindrome.c.o CMakeFiles/advancedProgramming.dir/utils/areOpposite.c.o CMakeFiles/advancedProgramming.dir/utils/maxSum.c.o CMakeFiles/advancedProgramming.dir/utils/printRightLeft.c.o CMakeFiles/advancedProgramming.dir/utils/arrAvg.c.o CMakeFiles/advancedProgramming.dir/utils/getBinary.c.o CMakeFiles/advancedProgramming.dir/utils/swapArrO1.c.o CMakeFiles/advancedProgramming.dir/utils/reallocExercise.c.o CMakeFiles/advancedProgramming.dir/utils/myRealloc.c.o CMakeFiles/advancedProgramming.dir/utils/fillArr.c.o CMakeFiles/advancedProgramming.dir/utils/create1DArray.c.o CMakeFiles/advancedProgramming.dir/utils/testExercises.c.o CMakeFiles/advancedProgramming.dir/utils/removeDuplicates.c.o CMakeFiles/advancedProgramming.dir/utils/separateArrays.c.o CMakeFiles/advancedProgramming.dir/utils/arrAddRemove.c.o CMakeFiles/advancedProgramming.dir/utils/2DArrs.c.o CMakeFiles/advancedProgramming.dir/utils/swap2DElements.c.o CMakeFiles/advancedProgramming.dir/utils/triangularMatrix.c.o CMakeFiles/advancedProgramming.dir/utils/stringMethods.c.o CMakeFiles/advancedProgramming.dir/utils/schoolProject.c.o CMakeFiles/advancedProgramming.dir/utils/sortArray.c.o CMakeFiles/advancedProgramming.dir/utils/pizzaProject.c.o CMakeFiles/advancedProgramming.dir/utils/fileRemoveSpaces.c.o CMakeFiles/advancedProgramming.dir/utils/sortFileNums.c.o CMakeFiles/advancedProgramming.dir/utils/fileCompare.c.o CMakeFiles/advancedProgramming.dir/utils/fileTest.c.o
+build advancedProgramming: C_EXECUTABLE_LINKER__advancedProgramming_Debug CMakeFiles/advancedProgramming.dir/main.c.o CMakeFiles/advancedProgramming.dir/utils/swapWithMemFuncs.c.o CMakeFiles/advancedProgramming.dir/utils/isPalindrome.c.o CMakeFiles/advancedProgramming.dir/utils/areOpposite.c.o CMakeFiles/advancedProgramming.dir/utils/maxSum.c.o CMakeFiles/advancedProgramming.dir/utils/printRightLeft.c.o CMakeFiles/advancedProgramming.dir/utils/arrAvg.c.o CMakeFiles/advancedProgramming.dir/utils/getBinary.c.o CMakeFiles/advancedProgramming.dir/utils/swapArrO1.c.o CMakeFiles/advancedProgramming.dir/utils/reallocExercise.c.o CMakeFiles/advancedProgramming.dir/utils/myRealloc.c.o CMakeFiles/advancedProgramming.dir/utils/fillArr.c.o CMakeFiles/advancedProgramming.dir/utils/create1DArray.c.o CMakeFiles/advancedProgramming.dir/utils/testExercises.c.o CMakeFiles/advancedProgramming.dir/utils/removeDuplicates.c.o CMakeFiles/advancedProgramming.dir/utils/separateArrays.c.o CMakeFiles/advancedProgramming.dir/utils/arrAddRemove.c.o CMakeFiles/advancedProgramming.dir/utils/2DArrs.c.o CMakeFiles/advancedProgramming.dir/utils/swap2DElements.c.o CMakeFiles/advancedProgramming.dir/utils/triangularMatrix.c.o CMakeFiles/advancedProgramming.dir/utils/stringMethods.c.o CMakeFiles/advancedProgramming.dir/utils/schoolProject.c.o CMakeFiles/advancedProgramming.dir/utils/sortArray.c.o CMakeFiles/advancedProgramming.dir/utils/pizzaProject.c.o CMakeFiles/advancedProgramming.dir/utils/fileRemoveSpaces.c.o CMakeFiles/advancedProgramming.dir/utils/sortFileNums.c.o CMakeFiles/advancedProgramming.dir/utils/fileCompare.c.o CMakeFiles/advancedProgramming.dir/utils/fileTest.c.o CMakeFiles/advancedProgramming.dir/utils/binaryFiles.c.o CMakeFiles/advancedProgramming.dir/utils/countingArrsP2.c.o CMakeFiles/advancedProgramming.dir/utils/bitwiseOperations.c.o CMakeFiles/advancedProgramming.dir/utils/bitwiseTest.c.o CMakeFiles/advancedProgramming.dir/utils/images.c.o CMakeFiles/advancedProgramming.dir/utils/basicAlgorithms.c.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/advancedProgramming.dir
   POST_BUILD = :

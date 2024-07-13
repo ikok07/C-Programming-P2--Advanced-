@@ -76,7 +76,13 @@
 				24,
 				25,
 				26,
-				27
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33
 			]
 		}
 	],
@@ -136,7 +142,13 @@
 				24,
 				25,
 				26,
-				27
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33
 			]
 		}
 	],
@@ -308,6 +320,42 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "utils/fileTest.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/binaryFiles.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/countingArrsP2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/bitwiseOperations.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/bitwiseTest.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/images.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/basicAlgorithms.c",
 			"sourceGroupIndex" : 0
 		}
 	],

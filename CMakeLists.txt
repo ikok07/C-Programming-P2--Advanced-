@@ -31,4 +31,10 @@ add_executable(advancedProgramming main.c
         utils/sortFileNums.c
         utils/fileCompare.c
         utils/fileTest.c
+        utils/binaryFiles.c
+        utils/countingArrsP2.c
+        utils/bitwiseOperations.c
+        utils/bitwiseTest.c
+        utils/images.c
+        utils/basicAlgorithms.c
 )
