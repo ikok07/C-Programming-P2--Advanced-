@@ -84,7 +84,8 @@
 				32,
 				33,
 				34,
-				35
+				35,
+				36
 			]
 		}
 	],
@@ -152,7 +153,8 @@
 				32,
 				33,
 				34,
-				35
+				35,
+				36
 			]
 		}
 	],
@@ -372,6 +374,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "utils/get_document.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "utils/get_document_structs.c",
 			"sourceGroupIndex" : 0
 		}
 	],

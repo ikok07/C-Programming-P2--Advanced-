@@ -39,4 +39,5 @@ add_executable(advancedProgramming main.c
         utils/basicAlgorithms.c
         utils/printingPatternUsingLoops.c
         utils/get_document.c
+        utils/get_document_structs.c
 )
