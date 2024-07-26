@@ -82,6 +82,10 @@ char**** get_document(char* text) {
     curr_document = realloc(curr_document, curr_document_length * sizeof(char ***));
     curr_document[curr_document_length - 1] = curr_paragraph;
 
+    free(curr_word);
+    free(curr_sentence);
+    free(curr_paragraph);
+
     return curr_document;
 }
 

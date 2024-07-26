@@ -1,0 +1,3 @@
+/Users/macos/CLionProjects/advancedProgramming/cmake-build-debug/CMakeFiles/advancedProgramming.dir
+/Users/macos/CLionProjects/advancedProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macos/CLionProjects/advancedProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir

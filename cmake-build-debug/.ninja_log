@@ -1,12 +1,12 @@
 # ninja log v6
 2	69	1720200211041144101	CMakeFiles/advancedProgramming.dir/utils/testExercises.c.o	65d0e65576ff042b
-3	76	1720198551447431150	CMakeFiles/advancedProgramming.dir/utils/create1DArray.c.o	e5d5445f74ec4c33
 2	78	1719929261262292501	CMakeFiles/advancedProgramming.dir/utils/areOpposite.c.o	381fc6750b369b34
 2	70	1720342820218721088	CMakeFiles/advancedProgramming.dir/utils/swap2DElements.c.o	50a2b2ecdfcfaa74
 9	3648	1720632576978044531	CMakeFiles/advancedProgramming.dir/utils/fileTest.c.o	32bf1955b675050e
+3	76	1720198551447431150	CMakeFiles/advancedProgramming.dir/utils/create1DArray.c.o	e5d5445f74ec4c33
+3	69	1719998697695830500	CMakeFiles/advancedProgramming.dir/utils/swapArrO1.c.o	ac2f0d13bd616502
 4	74	1720613599491101466	CMakeFiles/advancedProgramming.dir/utils/sortFileNums.c.o	eb1ff05d62b144eb
 3	74	1720198067208302393	CMakeFiles/advancedProgramming.dir/utils/fillArr.c.o	ebb048ec9e969e4f
-3	69	1719998697695830500	CMakeFiles/advancedProgramming.dir/utils/swapArrO1.c.o	ac2f0d13bd616502
 3	83	1720196746499732780	CMakeFiles/advancedProgramming.dir/utils/myRealloc.c.o	d4f65f642526b3c1
 3	58	1720792286290825558	CMakeFiles/advancedProgramming.dir/utils/bitwiseOperations.c.o	57de6942084229cf
 5	124	1721979132266457552	CMakeFiles/advancedProgramming.dir/utils/basicAlgorithms.c.o	bc905493dfb4582b
@@ -30,7 +30,7 @@
 4	102	1720890244933533998	CMakeFiles/advancedProgramming.dir/utils/bitwiseTest.c.o	73b9f57fd635436f
 9	107	1720606479943373305	CMakeFiles/advancedProgramming.dir/utils/sortArray.c.o	b3d7ff858cdc6d47
 5	105	1720607058902311702	CMakeFiles/advancedProgramming.dir/utils/pizzaProject.c.o	8c902a6885b5214c
-1	73	1721983593417129824	build.ninja	bb06ee0cb45ff693
+1	73	1721983740246209271	build.ninja	bb06ee0cb45ff693
 3	68	1720611862816541573	CMakeFiles/advancedProgramming.dir/utils/fileRemoveSpaces.c.o	f05b359c7bcfa0d6
 3	87	1720614141352415311	CMakeFiles/advancedProgramming.dir/utils/fileCompare.c.o	83a7f1181f1add38
 3	100	1719860197594193166	CMakeFiles/advancedProgramming.dir/utils/swapWithMemFuncs.c.o	f549e2d4c403444b
