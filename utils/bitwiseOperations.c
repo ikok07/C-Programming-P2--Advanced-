@@ -2,6 +2,8 @@
 // Created by Kaloyan Petkov on 12.07.24.
 //
 
+#include <stdio.h>
+
 int rotateRightShift(int value) {
     int mask = 1;
     int rightMostDigit = value & mask;
@@ -59,4 +61,24 @@ void swapBitwise_p2(int *a, int *b) {
     *a = *a ^ *b;
     *b = *b ^ *a;
     *a = *b ^ *a;
+}
+
+void calculate_the_maximum(int n, int k) {
+    //Write your code here.
+    int maxAND = 0;
+    int maxOR = 0;
+    int maxXOR = 0;
+    for (int i = 1; i <= n; i++) {
+        for (int j = i + 1; j <= n; j++) {
+            int ANDResult = i & j;
+            int ORResult = i | j;
+            int XORResult = i ^ j;
+            if (ANDResult < k && maxAND < ANDResult) maxAND = ANDResult;
+            if (ORResult < k && maxOR < ORResult) maxOR = ORResult;
+            if (XORResult < k && maxXOR < XORResult) maxXOR = XORResult;
+        }
+    }
+    printf("%d\n", maxAND);
+    printf("%d\n", maxOR);
+    printf("%d\n", maxXOR);
 }

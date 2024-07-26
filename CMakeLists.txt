@@ -37,5 +37,6 @@ add_executable(advancedProgramming main.c
         utils/bitwiseTest.c
         utils/images.c
         utils/basicAlgorithms.c
+        utils/printingPatternUsingLoops.c
         utils/get_document.c
 )
